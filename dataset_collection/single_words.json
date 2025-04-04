@@ -1,0 +1,1574 @@
+
+{
+  "vocabulary": [
+    {
+      "french": "abcès",
+      "english": "boil",
+      "fulfulde": "ɓuudi"
+    },
+    {
+      "french": "lèpre",
+      "english": "leprosy",
+      "fulfulde": "saɗawre"
+    },
+    {
+      "french": "flèvre",
+      "english": "fever",
+      "fulfulde": "yontere"
+    },
+    {
+      "french": "remède",
+      "english": "medicine",
+      "fulfulde": "lekki"
+    },
+    {
+      "french": "aiguille",
+      "english": "needle",
+      "fulfulde": "baatal"
+    },
+    {
+      "french": "injection",
+      "english": "injection",
+      "fulfulde": "tufanɗe"
+    },
+    {
+      "french": "rhume",
+      "english": "cold",
+      "fulfulde": "ndamba"
+    },
+    {
+      "french": "jaunisse",
+      "english": "jaundice",
+      "fulfulde": "sawoora"
+    },
+    {
+      "french": "plaie",
+      "english": "wound",
+      "fulfulde": "huuduure"
+    },
+    {
+      "french": "piquer",
+      "english": "to inject",
+      "fulfulde": "tufugo"
+    },
+    {
+      "french": "avaler",
+      "english": "to swallow",
+      "fulfulde": "mooɗugo"
+    },
+    {
+      "french": "faire mal",
+      "english": "to hurt",
+      "fulfulde": "naawago"
+    },
+    {
+      "french": "joue",
+      "english": "cheek",
+      "fulfulde": "wolo"
+    },
+    {
+      "french": "cuisse",
+      "english": "thigh",
+      "fulfulde": "daŋŋgo"
+    },
+    {
+      "french": "nez",
+      "english": "nose",
+      "fulfulde": "kine"
+    },
+    {
+      "french": "rein",
+      "english": "kidney",
+      "fulfulde": "ɓo'ire/heŋre"
+    },
+    {
+      "french": "cœur",
+      "english": "heart",
+      "fulfulde": "ɓегnde"
+    },
+    {
+      "french": "main/bras",
+      "english": "hand/arm",
+      "fulfulde": "juŋŋgo"
+    },
+    {
+      "french": "lèvre",
+      "english": "lip",
+      "fulfulde": "tondi"
+    },
+    {
+      "french": "doigt/orteil",
+      "english": "finger/toe",
+      "fulfulde": "hoondu"
+    },
+    {
+      "french": "ventre",
+      "english": "stomach",
+      "fulfulde": "reedu"
+    },
+    {
+      "french": "oreille",
+      "english": "ear",
+      "fulfulde": "nofru"
+    },
+    {
+      "french": "œil",
+      "english": "eye",
+      "fulfulde": "yiteere"
+    },
+    {
+      "french": "dos",
+      "english": "back",
+      "fulfulde": "ɓaawo"
+    },
+    {
+      "french": "tête",
+      "english": "head",
+      "fulfulde": "hoore"
+    },
+    {
+      "french": "menton",
+      "english": "chin",
+      "fulfulde": "wakkude"
+    },
+    {
+      "french": "gorge",
+      "english": "throat",
+      "fulfulde": "bobbokwol"
+    },
+    {
+      "french": "épaule",
+      "english": "shoulder",
+      "fulfulde": "balawal"
+    },
+    {
+      "french": "langue",
+      "english": "tongue",
+      "fulfulde": "ɗemngal"
+    },
+    {
+      "french": "perdre/mourir",
+      "english": "to lose/to die",
+      "fulfulde": "halkugo/majjogo"
+    },
+    {
+      "french": "fesse",
+      "english": "bottom",
+      "fulfulde": "foobre/rubberde"
+    },
+    {
+      "french": "jambe, pied",
+      "english": "leg/foot",
+      "fulfulde": "kosngal"
+    },
+    {
+      "french": "acheter",
+      "english": "to buy",
+      "fulfulde": "soodugo"
+    },
+    {
+      "french": "dent",
+      "english": "tooth",
+      "fulfulde": "nyinndere"
+    },
+    {
+      "french": "donner",
+      "english": "to give",
+      "fulfulde": "hokkugo"
+    },
+    {
+      "french": "ongle",
+      "english": "nail",
+      "fulfulde": "feɗeendu"
+    },
+    {
+      "french": "vendre",
+      "english": "to sell",
+      "fulfulde": "sorrugo"
+    },
+    {
+      "french": "sein",
+      "english": "breast",
+      "fulfulde": "enndu"
+    },
+    {
+      "french": "cheveux",
+      "english": "hair",
+      "fulfulde": "gaasa"
+    },
+    {
+      "french": "genou",
+      "english": "knee",
+      "fulfulde": "hofru"
+    },
+    {
+      "french": "poitrine",
+      "english": "chest",
+      "fulfulde": "wiɓɓeere"
+    },
+    {
+      "french": "bouche",
+      "english": "mouth",
+      "fulfulde": "hunnduko"
+    },
+    {
+      "french": "cou",
+      "english": "neck",
+      "fulfulde": "daande"
+    },
+    {
+      "french": "mobylette",
+      "english": "moped",
+      "fulfulde": "mawbilet"
+    },
+    {
+      "french": "bicyclette",
+      "english": "bicycle",
+      "fulfulde": "baskur"
+    },
+    {
+      "french": "sante",
+      "english": "health",
+      "fulfulde": "jammu"
+    },
+    {
+      "french": "corps",
+      "english": "body",
+      "fulfulde": "ɓanndu"
+    },
+    {
+      "french": "voiture",
+      "english": "car",
+      "fulfulde": "moota"
+    },
+    {
+      "french": "voyage",
+      "english": "travel",
+      "fulfulde": "jaahaaŋgal"
+    },
+    {
+      "french": "stationnement",
+      "english": "taxi park",
+      "fulfulde": "tasa"
+    },
+
+    {
+      "french": "personnes",
+      "english": "people",
+      "fulfulde": "yimɓe"
+    },
+
+    {
+      "french": "papa",
+      "english": "papa",
+      "fulfulde": "baaba"
+    },
+    {
+      "french": "oncle",
+      "english": "uncle",
+      "fulfulde": "bappa(pat.)/kawu(mat.)"
+    },
+    {
+      "french": "frère",
+      "english": "brother",
+      "fulfulde": "deerdiraawo"
+    },
+    {
+      "french": "enfant",
+      "english": "child",
+      "fulfulde": "ɓiŋgel"
+    },
+    {
+      "french": "grand-parent",
+      "english": "grandparent",
+      "fulfulde": "maama"
+    },
+    {
+      "french": "sous-préfet",
+      "english": "subdivisional officer",
+      "fulfulde": "kumanda"
+    },
+    {
+      "french": "co-épouse",
+      "english": "co-wife",
+      "fulfulde": "nawliraawo"
+    },
+    {
+      "french": "maman",
+      "english": "mommy",
+      "fulfulde": "daada"
+    },
+    {
+      "french": "tante",
+      "english": "aunt",
+      "fulfulde": "goggo (pat.)/yappendo (mat.)"
+    },
+    {
+      "french": "femme(s)",
+      "english": "woman/wife",
+      "fulfulde": "debbo/rewɓe"
+    },
+    {
+      "french": "sultan",
+      "english": "sultan",
+      "fulfulde": "laamiiɗo"
+    },
+    {
+      "french": "homme(s)",
+      "english": "man/husband",
+      "fulfulde": "gorko/worɓe"
+    },
+
+    {
+      "english": "One",
+      "french": "Un",
+      "fulfulde": "go'o"
+    },
+
+    {
+      "english": "Two",
+      "french": "Deux",
+      "fulfulde": "ɗiɗi"
+    },
+
+
+    {
+      "english": "Three",
+      "french": "Trois",
+      "fulfulde": "tati"
+    },
+ 
+    {
+      "english": "four",
+      "french": "quatre",
+      "fulfulde": "nayi"
+    },
+
+    {
+      "english": "five",
+      "french": "cinq",
+      "fulfulde": "Jowi"
+    },
+
+
+    {
+      "english": "six",
+      "french": "six",
+      "fulfulde": "Jowi"
+    },
+
+    {
+      "english": "Seven",
+      "french": "Sept",
+      "fulfulde": "joweeɗiɗi"
+    },
+  
+
+    {
+      "english": "eight",
+      "french": "huit",
+      "fulfulde": "joweetati"
+    },
+    
+    {
+      "english": "Nine",
+      "french": "Neuf",
+      "fulfulde": "joweenay"
+    },
+
+    {
+      "english": "Ten",
+      "french": "Dix",
+      "fulfulde": "sappo/cappanɗe"
+    },
+
+    {
+      "english": "Eleven",
+      "french": "Onze",
+      "fulfulde": "sappo e go'o"
+    },
+    
+    
+    {
+          "english": "twelve",
+          "french": "douze",
+          "fulfulde": "sappo e ɗiɗi"
+    },
+
+    {
+      "english": "thirteen",
+      "french": "treize",
+      "fulfulde": "sappo e tati"
+    },
+    {
+      "english": "fourteen",
+      "french": "quatorze",
+      "fulfulde": "sappo e nay"
+    },
+
+    {
+      "english": "fifteen",
+      "french": "quinze",
+      "fulfulde": "sappo e jowi"
+    },
+
+    {
+      "english": "sixteen",
+      "french": "seize",
+      "fulfulde": "sappo e joweego"
+    },
+
+    {
+      "english": "seventeen",
+      "french": "dix-sept",
+      "fulfulde": "sappo e joweeɗiɗi"
+    },
+
+
+    {
+      "english": "eighteen",
+      "french": "dix-huit",
+      "fulfulde": "sappo e joweetati"
+    },
+
+    {
+      "english": "nineteen",
+      "french": "dix-neuf",
+      "fulfulde": "sappo e joweenay"
+    },
+
+    {
+      "english": "twenty",
+      "french": "vingt",
+      "fulfulde": "noogas"
+    },
+
+    {
+      "english": "twenty-one",
+      "french": "vingt-et-un",
+      "fulfulde": "noogas e go'o"
+    },
+
+    {
+      "english": "twenty-two",
+      "french": "vingt-deux",
+      "fulfulde": "noogas e ɗiɗi"
+    },
+
+    {
+      "english": "thirty",
+      "french": "trente",
+      "fulfulde": "cappanɗe tati"
+    },
+
+    {
+      "english": "forty",
+      "french": "quarante",
+      "fulfulde": "cappanɗe nay"
+    },
+
+    {
+      "english": "fifty",
+      "french": "cinquante",
+      "fulfulde": "cappanɗe jowi"
+    },
+
+    {
+      "english": "sisty",
+      "french": "soixante",
+      "fulfulde": "cappanɗe joweego"
+    },
+
+    {
+      "english": "seventy",
+      "french": "soixante-dis",
+      "fulfulde": "cappanɗe joweeɗiɗi"
+    },
+
+    {
+      "english": "Eighty",
+      "french": "quatre-vingts",
+      "fulfulde": "cappanɗe joweetati"
+    },
+
+    {
+      "english": "Ninety",
+      "french": "quatre-vingtd-dex",
+      "fulfulde": "cappanɗe joweenay"
+    },
+
+    {
+      "english": "one hundred",
+      "french": "cent",
+      "fulfulde": "temerre"
+    },
+
+    {
+      "english": "two hundred",
+      "french": "deux cents",
+      "fulfulde": "temerre ɗiɗi"
+    },
+
+    {
+      "english": "two hundred and ten",
+      "french": "deux cent dix",
+      "fulfulde": "temerre ɗiɗi be sappo"
+    },
+
+    {
+      "english": "mille",
+      "french": "one thousand",
+      "fulfulde": "booro"
+    },
+
+    {
+      "english": "dix mille",
+      "french": "ten thousand",
+      "fulfulde": "booro sappo"
+    },
+
+
+    {
+          "english": "to die",
+          "french": "mourr",
+          "fulfulde": "maayugo"
+    },
+        {
+          "english": "to live",
+          "french": "vivre",
+          "fulfulde": "yeeɗugo"
+        },
+       
+        {
+          "english": "to be born",
+          "french": "naitre",
+          "fulfulde": "danyeego"
+        },
+
+        {
+          "english": "PRAYERS",
+          "french": "PRIERES",
+          "fulfulde": "JUULDE"
+        },
+        
+        {
+          "english": "morning prayer",
+          "french": "prière du matin",
+          "fulfulde": "fajiiri"
+        },
+       
+        {
+          "english": "prayer about 2pm",
+          "french": "prière vers 14h",
+          "fulfulde": "zuura"
+        },
+        {
+          "english": "prayer about 4pm",
+          "french": "prière vers 16h",
+          "fulfulde": "asiri"
+        },
+      
+        {
+          "english": "dusk prayer",
+          "french": "prière du crépuscule ",
+          "fulfulde": "maŋgariba"
+        },
+       
+        {
+          "english": "to wash",
+          "french": "se laver",
+          "fulfulde": "yiiwaago"
+        },
+        
+        {
+          "english": "WEATHER",
+          "french": "TEMPS",
+          "fulfulde": "WAKKATI"
+        },
+        {
+          "english": "cold",
+          "french": "froid",
+          "fulfulde": "jaaŋgool"
+        },
+       
+        {
+          "english": "day",
+          "french": "jour",
+          "fulfulde": "nyalde"
+        },
+        {
+          "english": "cloud",
+          "french": "nuage",
+          "fulfulde": "duule"
+        },
+        
+        {
+          "english": "cool weather",
+          "french": "fraicheur",
+          "fulfulde": "peewol"
+        },
+        {
+          "english": "week",
+          "french": "semaine",
+          "fulfulde": "asaweere"
+        },
+        {
+          "english": "minute",
+          "french": "minute",
+          "fulfulde": "minti"
+        },
+        {
+          "english": "heat",
+          "french": "chaleur",
+          "fulfulde": "gulɗum"
+        },
+        {
+          "english": "hour",
+          "french": "heure",
+          "fulfulde": "njamndi"
+        },
+        {
+          "english": "sky",
+          "french": "ciel",
+          "fulfulde": "asamawu"
+        },
+        {
+          "english": "dry season",
+          "french": "saison sèche",
+          "fulfulde": "ceedu"
+        },
+        {
+          "english": "moon/month",
+          "french": "lune/mois",
+          "fulfulde": "lewru"
+        },
+        {
+          "english": "star",
+          "french": "étoile",
+          "fulfulde": "hoorre"
+        },
+        {
+          "english": "wind",
+          "french": "vent",
+          "fulfulde": "henndu"
+        },
+        {
+          "english": "sun",
+          "french": "soleil",
+          "fulfulde": "naaŋge"
+        },
+        {
+          "english": "night",
+          "french": "nuit",
+          "fulfulde": "jemma"
+        },
+        {
+          "english": "rainy season",
+          "french": "saison de pluies",
+          "fulfulde": "duumol"
+        },
+      
+        {
+          "english": "season/time",
+          "french": "époque/ moment",
+          "fulfulde": "jumanu"
+        },
+        {
+          "english": "to rain",
+          "french": "pleuvoir",
+          "fulfulde": "toɓugo"
+        },
+       
+        {
+          "english": "horse",
+          "french": "cheval",
+          "fulfulde": "puccu"
+        },
+        {
+          "english": "bull",
+          "french": "taureau",
+          "fulfulde": "ngaari"
+        },
+      
+        {
+          "english": "cow",
+          "french": "bœuf",
+          "fulfulde": "nagge"
+        },
+
+        {
+          "english": "donkey",
+          "french": "Âne",
+          "fulfulde": "wamnde"
+        },
+
+
+        {
+          "english": "dog",
+          "french": "chien",
+          "fulfulde": "rawaandu"
+        },
+
+        {
+          "english": "sheep",
+          "french": "mouton",
+          "fulfulde": "mbaala"
+        },
+        
+        {
+          "english": "pig",
+          "french": "porc",
+          "fulfulde": "gaduuru"
+        },
+
+        {
+          "english": "goat",
+          "french": "chèvre",
+          "fulfulde": "mbeewa"
+        },
+
+        {
+          "english": "cat",
+          "french": "chat",
+          "fulfulde": "paatuuji"
+        },
+
+        {
+          "english": "cock",
+          "french": "coq",
+          "fulfulde": "agogumri"
+        },
+
+        {
+          "english": "hen",
+          "french": "poule",
+          "fulfulde": "gertogal"
+        },
+        {
+          "english": "billygoat",
+          "french": "bouc",
+          "fulfulde": "mbeewa"
+        },
+        
+        
+        {
+          "english": "duck",
+          "french": "cannard",
+          "fulfulde": "cayɗe"
+        },
+
+        {
+          "french": "pondre",
+          "english": "to lay",
+          "fulfulde": "rufugo"
+        },
+        {
+          "french": "monter sur",
+          "english": "to mount",
+          "fulfulde": " wa'aago"
+        },
+        {
+          "french": "nourrir",
+          "english": "to feed",
+          "fulfulde": "nyaamnugo"
+        },
+        {
+          "french": "paitre",
+          "english": "to graze",
+          "fulfulde": "durugo"
+        },
+        {
+          "french": "transporter",
+          "english": "to carry",
+          "fulfulde": "roondaago"
+        },
+        {
+          "french": "garder",
+          "english": "to keep",
+          "fulfulde": "ayinugo"
+        },
+        {
+          "french": "ANIMAUX SAUVAGES",
+          "english": "WILD ANIMALS",
+          "fulfulde": "DABBAJI LADDE"
+        },
+        {
+          "french": "hippopotame",
+          "english": "hippopotamus",
+          "fulfulde": "ngabbu"
+        },
+        {
+          "french": "port-épic",
+          "english": "porcupine",
+          "fulfulde": "saŋgalde"
+        },
+        {
+          "french": "lion",
+          "english": "lion",
+          "fulfulde": "mbarooga"
+        },
+        {
+          "french": "éléphant",
+          "english": "elephant",
+          "fulfulde": "nyiiwa"
+        },
+        {
+          "french": "serpent",
+          "english": "snake",
+          "fulfulde": "mboodi"
+        },
+        {
+          "french": "tortue",
+          "english": "tortoise",
+          "fulfulde": "hunyaare"
+        },
+        {
+          "french": "hyène",
+          "english": "hyena",
+          "fulfulde": "fowru"
+        },
+        {
+          "french": "girafe",
+          "english": "giraffe",
+          "fulfulde": "tireewa"
+        },
+        {
+          "french": "loup",
+          "english": "wolf",
+          "fulfulde": "saafanadu"
+        },
+        {
+          "french": "buffle",
+          "english": "buffalo",
+          "fulfulde": "mbana"
+        },
+        {
+          "french": "lézard",
+          "english": "lizard",
+          "fulfulde": "palaandi"
+        },
+        {
+          "french": "phacochère",
+          "english": "bush pig",
+          "fulfulde": "gaduuru"
+        },
+        {
+          "french": "lapin",
+          "english": "rabbit",
+          "fulfulde": "bojel"
+        },
+        {
+          "french": "cynocéphale/babouin",
+          "english": "baboon",
+          "fulfulde": "waandu"
+        },
+        {
+          "french": "panthère",
+          "english": "panther",
+          "fulfulde": "cirgu, paadawa"
+        },
+        {
+          "french": "hérisson",
+          "english": "hedgehog",
+          "fulfulde": "canmale"
+        },
+        {
+          "french": "singe",
+          "english": "monkey",
+          "fulfulde": "waandu"
+        },
+        {
+          "french": "écureuil",
+          "english": "squirrel",
+          "fulfulde": "jiire"
+        },
+        {
+          "french": "serpent",
+          "english": "snake",
+          "fulfulde": "mboodi"
+        },
+        {
+          "french": "gazelle",
+          "english": "deer",
+          "fulfulde": "jelwa"
+        },
+
+
+        {
+          "french": "ciseaux",
+          "english": "scissors",
+          "fulfulde": "mekesje"
+        },
+        {
+          "french": "clou",
+          "english": "nail",
+          "fulfulde": "kaafaahi"
+        },
+        {
+          "french": "lance",
+          "english": "spear",
+          "fulfulde": "labbo"
+        },
+        {
+          "french": "houe",
+          "english": "hoe",
+          "fulfulde": "baanewo"
+        },
+        {
+          "french": "couteau",
+          "english": "knife",
+          "fulfulde": "laɓi"
+        },
+        {
+          "french": "petite houe",
+          "english": "small hoe",
+          "fulfulde": "bannewo"
+        },
+        {
+          "french": "bâton",
+          "english": "stick",
+          "fulfulde": "sawuuru"
+        },
+        {
+          "french": "hâche",
+          "english": "axe",
+          "fulfulde": "feyyirde"
+        },
+        {
+          "french": "couper",
+          "english": "to cut",
+          "fulfulde": "ta'ol"
+        },
+        {
+          "french": "cultiver",
+          "english": "to cultivate",
+          "fulfulde": "reemugo"
+        },
+        {
+          "french": "JOURS",
+          "english": "DAYS",
+          "fulfulde": "NYALDE"
+        },
+        {
+          "french": "dimanche",
+          "english": "Sunday",
+          "fulfulde": "alad"
+        },
+        {
+          "french": "lundi",
+          "english": "Monday",
+          "fulfulde": "altine"
+        },
+        {
+          "french": "mardi",
+          "english": "Tuesday",
+          "fulfulde": "salaasa"
+        },
+        {
+          "french": "mercredi",
+          "english": "Wednesday",
+          "fulfulde": "alarba"
+        },
+        {
+          "french": "jeudi",
+          "english": "Thursday",
+          "fulfulde": "alamisa"
+        },
+        {
+          "french": "vendredi",
+          "english": "Friday",
+          "fulfulde": "mawnde"
+        },
+        {
+          "french": "samedi",
+          "english": "Saturday",
+          "fulfulde": "asawe"
+        },
+        {
+          "french": "NOMBRES",
+          "english": "NUMBERS",
+          "fulfulde": "LIMLE"
+        },
+
+        {
+          "french": "couverture",
+          "english": "blanket",
+          "fulfulde": "borgoore"
+        },
+        {
+          "french": "robe",
+          "english": "dress",
+          "fulfulde": "toggore"
+        },
+        {
+          "french": "anneau de cheville",
+          "english": "ankle bracelet",
+          "fulfulde": "yawo"
+        },
+        {
+          "french": "matelas",
+          "english": "mattress",
+          "fulfulde": "baalorɗum"
+        },
+        {
+          "french": "drap",
+          "english": "sheet",
+          "fulfulde": "mayaafi"
+        },
+        {
+          "french": "foulard",
+          "english": "headscarf",
+          "fulfulde": "sallabii"
+        },
+        {
+          "french": "chemisier",
+          "english": "blouse",
+          "fulfulde": "toggoore"
+        },
+        {
+          "french": "bracelet",
+          "english": "bracelet",
+          "fulfulde": "wathare"
+        },
+
+        {
+          "french": "oreiller",
+          "english": "pillow",
+          "fulfulde": "waflaare"
+        },
+
+        {
+          "french": "collier",
+          "english": "necklace",
+          "fulfulde": "meedawol"
+        },
+        {
+          "french": "anneau du nez",
+          "english": "nose ring",
+          "fulfulde": "hafre"
+        },
+        {
+          "french": "boucle d’oreille",
+          "english": "earring",
+          "fulfulde": "yeeri"
+        },
+        {
+          "french": "pagne",
+          "english": "wrap",
+          "fulfulde": "ugelawite"
+        },
+        {
+          "french": "beauté",
+          "english": "beauty",
+          "fulfulde": "ŋarol"
+        },
+        {
+          "french": "vêtements",
+          "english": "cloth",
+          "fulfulde": "wurre"
+        },
+        {
+          "french": "ustensiles ménagers",
+          "english": "household (women)",
+          "fulfulde": "KUUWRUDUM REWBE"
+        },
+        {
+          "french": "sorte de verre",
+          "english": "drinking bowl",
+          "fulfulde": "ɓi loonde"
+        },
+
+        {
+          "french": "couvercle",
+          "english": "eathing lid",
+          "fulfulde": "maɓɓirdum"
+        },
+
+        {
+          "french": "marmite",
+          "english": "cooking-pot",
+          "fulfulde": "fayannde"
+        },
+        {
+          "french": "jarre",
+          "english": "jar",
+          "fulfulde": "girawel"
+        },
+        {
+          "french": "machine à coudre",
+          "english": "sewing machine",
+          "fulfulde": "keeke nyootugo"
+        },
+        {
+          "french": "aiguille",
+          "english": "needle",
+          "fulfulde": "bauai"
+        },
+        {
+          "french": "fil à coudre",
+          "english": "thread",
+          "fulfulde": "sikaare"
+        },
+        {
+          "french": "coudre",
+          "english": "to sew",
+          "fulfulde": "nyootugo"
+        },
+
+
+        {
+          "french": "chasser",
+          "english": "to hunt",
+          "fulfulde": "loohaago"
+        },
+        {
+          "french": "tuer",
+          "english": "to kill",
+          "fulfulde": "mbarugo"
+        },
+        {
+          "french": "mordre",
+          "english": "to bite",
+          "fulfulde": "ŋatugo"
+        },
+        
+        {
+          "french": "paon",
+          "english": "peacock",
+          "fulfulde": "teeku"
+        },
+        {
+          "french": "heron",
+          "english": "heron",
+          "fulfulde": "cooɗuwal"
+        },
+        {
+          "french": "épervier",
+          "english": "hawk",
+          "fulfulde": "ciilal"
+        },
+        {
+          "french": "pic-boeuf",
+          "english": "cattle egret",
+          "fulfulde": "nyalal"
+        },
+        {
+          "french": "chauve-souris",
+          "english": "bat",
+          "fulfulde": "wilwildu"
+        },
+        {
+          "french": "pigeon",
+          "english": "pigeon",
+          "fulfulde": "poola"
+        },
+        {
+          "french": "vautour",
+          "english": "vulture",
+          "fulfulde": "dutal"
+        },
+        {
+          "french": "autruche",
+          "english": "ostrich",
+          "fulfulde": "ndaw"
+        },
+        {
+          "french": "saisir au vol",
+          "english": "to snatch up",
+          "fulfulde": "wiftaago"
+        },
+        {
+          "french": "s'envoler",
+          "english": "to fly",
+          "fulfulde": "fiirgo"
+        },
+        {
+          "french": "atterrir",
+          "english": "to land",
+          "fulfulde": "jippaago"
+        },
+        {
+          "french": "INSECTES",
+          "english": "INSECTS",
+          "fulfulde": "KOOWOWWE"
+        },
+        {
+          "french": "pace",
+          "english": "fica",
+          "fulfulde": "burumɗa"
+        },
+        {
+          "french": "pou",
+          "english": "louse",
+          "fulfulde": "teŋgu"
+        },
+        {
+          "french": "sauterelle",
+          "english": "grasshopper",
+          "fulfulde": "mbaaɓɓatu"
+        },
+        {
+          "french": "termite volante",
+          "english": "flying termite",
+          "fulfulde": "kurbanaanu"
+        },
+        {
+          "french": "mouche",
+          "english": "fly",
+          "fulfulde": "mbuubu"
+        },
+        {
+          "french": "termite",
+          "english": "termite",
+          "fulfulde": "mooyu"
+        },
+        {
+          "french": "moustique",
+          "english": "mosquito",
+          "fulfulde": "cufu"
+        },
+        {
+          "french": "démanger",
+          "english": "to bite",
+          "fulfulde": "nyanyego"
+        },
+        {
+          "french": "MAISON",
+          "english": "HOUSE",
+          "fulfulde": "SAARE"
+        },
+        {
+          "french": "case",
+          "english": "room",
+          "fulfulde": "suudu"
+        },
+        {
+          "french": "natte",
+          "english": "mat",
+          "fulfulde": "dasgo"
+        },
+        {
+          "french": "calebasse",
+          "english": "calabash",
+          "fulfulde": "tummude"
+        },
+        {
+          "french": "cour",
+          "english": "compound",
+          "fulfulde": "dadal"
+        },
+        {
+          "french": "hangar",
+          "english": "shade",
+          "fulfulde": "daŋki"
+        },
+        {
+          "french": "mortler",
+          "english": "mortar",
+          "fulfulde": "unordu"
+        },
+        
+        {
+        "french": "lit",
+        "english": "bed",
+        "fulfulde": "leeso"
+      },
+      {
+        "french": "pilon",
+        "english": "pestle",
+        "fulfulde": "gaafgal"
+      },
+      {
+        "french": "foyer",
+        "english": "fireside",
+        "fulfulde": "huɓɓirde"
+      },
+      {
+        "french": "mur",
+        "english": "wall",
+        "fulfulde": "mahol"
+      },
+     
+      {
+        "french": "canari",
+        "english": "pot",
+        "fulfulde": "fayande"
+      },
+      {
+        "french": "terni",
+        "english": "earth",
+        "fulfulde": "lesdi"
+      },
+      {
+        "french": "derrière",
+        "english": "back of",
+        "fulfulde": "ɓaawo suudu"
+      },
+      
+      {
+        "french": "feu",
+        "english": "fire",
+        "fulfulde": "yiite"
+      },
+      {
+        "french": "paille",
+        "english": "straw",
+        "fulfulde": "tiitiiji"
+      },
+      {
+        "french": "porte",
+        "english": "door",
+        "fulfulde": "parewal, mɓɓoode"
+      },
+      {
+        "french": "van",
+        "english": "winnowing mat",
+        "fulfulde": "nyorgo"
+      },
+      {
+        "french": "bouilloire",
+        "english": "kettle",
+        "fulfulde": "sintaliiru"
+      },
+      {
+        "french": "puits",
+        "english": "well",
+        "fulfulde": "ɓuundu"
+      },
+      {
+        "french": "seuil",
+        "english": "doorstep",
+        "fulfulde": "dammugal"
+      },
+      {
+        "french": "entrée",
+        "english": "entrance",
+        "fulfulde": "naatirde"
+      },
+      {
+        "french": "eau",
+        "english": "water",
+        "fulfulde": "ndiyam"
+      },
+      {
+        "french": "NOURRITURE",
+        "english": "FOOD",
+        "fulfulde": "NYAAMNDU"
+      },
+    
+      {
+        "french": "patate douce",
+        "english": "sweet potato",
+        "fulfulde": "daŋkaali/kudaku"
+      },
+      {
+        "french": "boule",
+        "english": "fulufunush",
+        "fulfulde": "nyiiri"
+      },
+      {
+        "french": "légume/sauce",
+        "english": "vegetable, soup",
+        "fulfulde": "haako"
+      },
+      {
+        "french": "mil",
+        "english": "millet",
+        "fulfulde": "gawri"
+      },
+      {
+        "french": "maïs",
+        "english": "corn",
+        "fulfulde": "masarji"
+      },
+      {
+        "french": "viande",
+        "english": "meat",
+        "fulfulde": "kusel"
+      },
+      {
+        "french": "poisson",
+        "english": "fish",
+        "fulfulde": "lii'ŋgu"
+      },
+      {
+        "french": "aubergine (pte)",
+        "english": "cucumber (small)",
+        "fulfulde": "kuwitaare"
+      },
+    
+      {
+        "french": "banane",
+        "english": "banana",
+        "fulfulde": "kwoŋdoŋ"
+      },
+      {
+        "french": "marché",
+        "english": "market",
+        "fulfulde": "luumo"
+      },
+      {
+        "french": "anguille",
+        "english": "eel",
+        "fulfulde": "mboynawo"
+      },
+      {
+        "french": "bouillie",
+        "english": "pap",
+        "fulfulde": "gaari/mbusiri"
+      },
+
+
+      {
+        "french": "beignet",
+        "english": "puffpuff, beignet salted",
+        "fulfulde": "makala, tamseeje"
+      },
+      {
+        "french": "arachide salée",
+        "english": "salted groundnut",
+        "fulfulde": " mandawawu"
+      },
+      {
+        "french": "melon",
+        "english": "pumpkin",
+        "fulfulde": "waygoore"
+      },
+      {
+        "french": "carpe",
+        "english": "carp",
+        "fulfulde": "farawre"
+      },
+      {
+        "french": "riz",
+        "english": "rice",
+        "fulfulde": "maaroori"
+      },
+      {
+        "french": "argent",
+        "english": "money",
+        "fulfulde": "ceede"
+      },
+      {
+        "french": "œuf",
+        "english": "egg",
+        "fulfulde": "yeerunde"
+      },
+      {
+        "french": "lait",
+        "english": "milk",
+        "fulfulde": "kossam"
+      },
+      {
+        "french": "aubergine",
+        "english": "cucumber",
+        "fulfulde": "yaalore"
+      },
+      {
+        "french": "arachide",
+        "english": "groundnut",
+        "fulfulde": "mbiriiwu"
+      },
+      {
+        "french": "haricot",
+        "english": "bean",
+        "fulfulde": "nyebbe"
+      },
+      {
+        "french": "EVENEMENTS",
+        "english": "EVENTS",
+        "fulfulde": "UKKAANOOJI"
+      },
+      {
+        "french": "mort",
+        "english": "death",
+        "fulfulde": "maayde waade (animaux)"
+      },
+      {
+        "french": "mariage",
+        "english": "marriage",
+        "fulfulde": "teegal"
+      },
+      {
+        "french": "danse",
+        "english": "dance",
+        "fulfulde": "wamride"
+      },
+      {
+        "french": "fête",
+        "english": "festival",
+        "fulfulde": "juulde"
+      },
+      {
+        "french": "fête de mouton",
+        "english": "Ram festival",
+        "fulfulde": "juulde leeha"
+      },
+      {
+        "french": "ramadan",
+        "english": "Ramadan",
+        "fulfulde": "sumaaye"
+      },
+      {
+        "french": "baptême",
+        "english": "naming ceremony",
+        "fulfulde": "inndeeri"
+      },
+      {
+        "french": "VETEMENTS D'HOMME",
+        "english": "MEN'S CLOTHES",
+        "fulfulde": "KOLTAL GORKO"
+      },
+      {
+        "french": "bonnet",
+        "english": "hat",
+        "fulfulde": "hufineere"
+      },
+      {
+        "french": "bouge",
+        "english": "ring",
+        "fulfulde": "halagaare"
+      },
+      {
+        "french": "grand boubou",
+        "english": "boubou ",
+        "fulfulde": "toggoore"
+      },
+      {
+        "french": "sous-gandoura",
+        "english": "agbada vest",
+        "fulfulde": "cakkaayel"
+      },
+      {
+        "french": "chaussure",
+        "english": "shoe",
+        "fulfulde": "paɗe"
+      },
+      {
+        "french": "chemise",
+        "english": "shirt",
+        "fulfulde": "jampayel"
+      },
+      {
+        "french": "pantalon",
+        "english": "trousers",
+        "fulfulde": "sirla"
+      },
+      {
+        "french": "chaussettes",
+        "english": "socks",
+        "fulfulde": "sawset"
+      },
+      {
+        "french": "culotte",
+        "english": "pants",
+        "fulfulde": "gajeere"
+      },
+      {
+        "french": "gandoura",
+        "english": "agbada",
+        "fulfulde": "gareeowol/ ngapalewol"
+      }
+
+  ]
+}
